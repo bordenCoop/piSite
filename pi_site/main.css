@@ -1,0 +1,83 @@
+body {
+    padding:0;
+    margin:0;
+}
+
+#pictures {
+    width:75%;
+    height:75%;
+    display:inline-block;
+    background-color: blue;
+}
+
+#weatherAndLogo {
+    width:24.7%;
+    height:75%; 
+    display:inline-block; 
+    vertical-align: top;
+    padding-top:2.2%;
+}
+
+#weather {
+    height:50%;
+    width:50%;
+    background-color:aqua;
+    
+}
+
+#logo {
+    height:45%;
+    background-color: red;
+}
+
+#rss {
+    height:25%;
+    width:100%;
+    background-color: green;
+}
+
+img {
+    width:100%;
+    height:100%;
+}
+
+#weatherInfo {
+    display:inline-block;
+    width:4%;
+    float:right;
+    margin-top: 20%;
+}
+
+	   #weatherIcon {
+            display:inline-block;
+	        width:80%;
+            height:50%;
+           margin-top:10%;
+           margin-left:4%;
+	   } 
+	   #city {
+	        font-size:28px; 
+	      
+	       width:238px; 
+	       height:28px; 
+	       left: 255px; 
+	       top: 35px;
+
+           display:inline-block;
+	   }
+	   #temp {
+	   font-size:65px; 
+	       width:233px;
+	       margin-top:-15px;  
+	   }
+	   #synopsis {
+	       font-size:22px;      
+	   } 
+
+#logo2 {
+    display:none;
+}
+
+#logo3 {
+    display:none;
+}
